@@ -29,7 +29,6 @@ Flare exposes project, canvas, asset, generation, motion, and render capabilitie
 - Website: https://flare.design
 - App: https://app.flare.design
 - Docs: https://flare.design/docs
-- Community Recipes: https://flare.design/community
 
 ## Status
 
